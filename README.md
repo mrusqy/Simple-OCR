@@ -1,0 +1,1 @@
+To create a simple OCR (Optical Character Recognition) application that allows users to upload a picture and then displays the extracted text in a dialog box, you can use Python along with the tkinter library for the GUI and pytesseract for OCR.
